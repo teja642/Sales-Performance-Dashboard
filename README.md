@@ -1,3 +1,4 @@
+![Dashboard](Dashboard.png)
 # 📊 Sales Performance Dashboard
 
 ## 📌 Project Overview
